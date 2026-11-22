@@ -1,5 +1,3 @@
-document.title = "Kebab booted";
-
 function start() {
   let state = Sultan.createShift();
   const speech = document.getElementById("speech");
